@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # solver.rb
 class Solver
   def self.factorial(num)
