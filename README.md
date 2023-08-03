@@ -33,13 +33,14 @@
 
   <ul>
     <li>Ruby</li>
+    <li>RSpec</li>
   </ul>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- [x] **TDT test**
+- [x] **Basic TDD test**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,14 +82,13 @@ git clone git@github.com:Nasirkhan294/test_deriven_development.git
 - GitHub: [AliShahSafdari](https://github.com/AliShahSafdari)
 - LinkedIn: [AlishahSafdari](https://www.linkedin.com/in/alishahsafdari/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Advance TDT test**
+- [ ] **Advance TDD test**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
