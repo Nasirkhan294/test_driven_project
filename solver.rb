@@ -13,10 +13,10 @@ class Solver
   end
 
   def self.fizzbuzz(num)
-    return 'fizzbuzz' if num % 3 == 0 && num % 5 == 0
-    return 'fizz' if num % 3 == 0
-    return 'buzz' if num % 5 == 0
+    return 'fizzbuzz' if (num % 3).zero? && (num % 5).zero?
+    return 'fizz' if (num % 3).zero?
+    return 'buzz' if (num % 5).zero?
 
-    n.to_s
+    num.to_s
   end
 end
