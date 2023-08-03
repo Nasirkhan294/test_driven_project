@@ -1,5 +1,3 @@
-
-
 # solver.rb
 class Solver
   def self.factorial(num)
